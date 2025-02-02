@@ -2,6 +2,8 @@ import cv2 as cv
 from cv2 import aruco
 import numpy as np
 """
+For my laptop camera
+
 Camera Matrix (Intrinsic Parameters):
  [[953.20908743   0.         277.93372861]
  [  0.         954.43512104 278.42310266]
